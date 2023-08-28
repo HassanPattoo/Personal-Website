@@ -1,0 +1,74 @@
+body {
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/26/44/spot-light-background-vector-3622644.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: -1% -2% 0 -2%;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar ul li:hover {
+    background-color: blue;
+}
+
+.container {
+    text-align: center;
+    border: 6px solid black;
+    border-radius: 60%;
+    margin: 5% 20% 0 20%;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+}
+
+p {
+    font-size: 20px;
+    font-family: cursive;
+    letter-spacing: 2px;
+}
+
+.container ul li {
+    list-style: none;
+    letter-spacing: 2px;
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    margin-top: 7%;
+    padding: 10px;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    color: wheat;
+}
+
+#pattoo {
+    text-align: right;
+    font-size: 1em;
+    margin-top: -1.3%;
+    margin-right: 4%;
+}
